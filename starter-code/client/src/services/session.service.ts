@@ -9,6 +9,8 @@ import { environment } from '../environments/environment';
 export interface User {
   _id: string,
   username: string,
+  email: string,
+  password: string,
   updated_at: Date,
   created_at: Date
 }

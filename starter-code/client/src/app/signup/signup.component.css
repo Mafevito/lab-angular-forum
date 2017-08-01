@@ -1,0 +1,21 @@
+.form {
+  text-align: center;
+  background-color: #eee;
+  width: 50%;
+  margin: 0 auto;
+  padding: 5px 0;
+  margin-top: 20px;
+}
+
+.signup-form label {
+  display: inherit;
+}
+
+.signup-form button {
+  margin-top: 10px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
